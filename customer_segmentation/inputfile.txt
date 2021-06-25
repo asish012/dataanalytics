@@ -1,0 +1,6 @@
+name="Jihad" phone=01755555555 address="BAshundhaara" birthdate="15July"
+name="Mahmuda_Mam" phone=0194568795 email="mahmudamam@gmail.com" birthdate="25August"
+name="Naimul_Baset" phone=01755555557 email="naimulsir@gmail.com" fb_ID=naimulsir.fb.com address="Gulshan" birthdate="15July"
+name="Danish" phone=01788888888 email="danish@gmail.com" fb_ID=danish.fb.com address="BAshundhaara" birthdate="29March"
+name="Abir_vai" address="Mirpur2" birthdate="15July"
+name="Nishat" phone=01700000000
