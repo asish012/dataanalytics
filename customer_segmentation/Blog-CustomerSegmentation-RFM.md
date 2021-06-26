@@ -42,3 +42,33 @@ stock.info['fiftyDayAverage']          = {float} 251.13705
 stock.info['earningsQuarterlyGrowth']  = {float} 0.438
 stock.info['fiveYearAvgDividendYield'] = {float} 1.6
 stock.info['previousClose']            = {float} 265.51
+
+
+
+111
+112
+113
+121
+122
+123
+131
+132
+133
+211
+212
+213
+221
+222
+223
+231
+232
+233
+311
+312
+313
+321
+322
+323
+331
+332
+333
